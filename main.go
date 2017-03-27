@@ -20,6 +20,7 @@ func main() {
 	}
 	app := NewApp(config)
 
+	fmt.Println("Starting download.")
 	err = app.takeScreenShot()
 	if err != nil {
 		fmt.Println(err.Error())

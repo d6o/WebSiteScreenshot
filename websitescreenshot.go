@@ -17,6 +17,8 @@ func (a *App) takeScreenShot() error {
 	if err != nil {
 		return err
 	}
+
+	fmt.Sprintf("File %s created\n", filename)
 	return nil
 }
 
