@@ -6,6 +6,8 @@ The WebSiteScreenshot's goal is to be a perfect tool providing a stupidly easy-t
 
 The Program work using the thumbnail.ws API its free to take up to 1000 screenshots per month. 
 
+[![asciicast](https://asciinema.org/a/ame43kpr0ry30e4gqlu2xxw5h.png)](https://asciinema.org/a/ame43kpr0ry30e4gqlu2xxw5h)
+
 ## Project Status
 
 WebSiteScreenshot is on beta. Pull Requests [are welcome](https://github.com/DiSiqueira/WebSiteScreenshot#social-coding)
