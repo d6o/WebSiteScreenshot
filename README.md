@@ -8,7 +8,7 @@ The Program work using the thumbnail.ws API its free to take up to 1000 screensh
 
 [![asciicast](https://asciinema.org/a/ame43kpr0ry30e4gqlu2xxw5h.png)](https://asciinema.org/a/ame43kpr0ry30e4gqlu2xxw5h)
 
-## Project Status
+## Status Of Projects
 
 WebSiteScreenshot is on beta. Pull Requests [are welcome](https://github.com/DiSiqueira/WebSiteScreenshot#social-coding)
 
@@ -22,7 +22,7 @@ WebSiteScreenshot is on beta. Pull Requests [are welcome](https://github.com/DiS
 - Uses native libs
 - Free to use (up to 1000 screenshots per mouth)
 
-## Installation
+## How To Install
 
 ### Option 1: Go Get
 
