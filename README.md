@@ -4,7 +4,7 @@
 
 The WebSiteScreenshot's goal is to be a perfect tool providing a stupidly easy-to-use and fast program to take screenshots of website using only the terminal.
 
-The Program work using the thumbnail.ws API its free to take up to 1000 screenshots per month. 
+The Program work using the thumbnail.ws API its free to take up to 1000 screenshots per month. Read on....
 
 [![asciicast](https://asciinema.org/a/ame43kpr0ry30e4gqlu2xxw5h.png)](https://asciinema.org/a/ame43kpr0ry30e4gqlu2xxw5h)
 
