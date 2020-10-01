@@ -1,5 +1,8 @@
 # ![WebSiteScreenshot](http://image.prntscr.com/image/ca355a85a09e42ee893cf95027ce877c.png)
 
+# What is a website screenshot?
+A screenshot, sometimes referred to as a screencap or screengrab, is an image that shows the contents of a computer display. Screenshots let you capture exactly what you’re seeing on your screen to share with others or reference later.
+
 # WebSiteScreenshot ![Language Badge](https://img.shields.io/badge/Language-Go-blue.svg) ![Go Report](https://goreportcard.com/badge/github.com/DiSiqueira/WebSiteScreenshot) ![License Badge](https://img.shields.io/badge/License-MIT-blue.svg) ![Status Badge](https://img.shields.io/badge/Status-Beta-brightgreen.svg)
 
 The WebSiteScreenshot's goal is to be a perfect tool providing a stupidly easy-to-use and fast program to take screenshots of website using only the terminal.
